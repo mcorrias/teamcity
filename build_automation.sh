@@ -1,2 +1,2 @@
-{ whoami && date; } >> hello2.log
+{ whoami && date; }
 exit 1
