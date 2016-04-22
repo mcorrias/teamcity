@@ -1,1 +1,1 @@
-{ echo -n "Hello World" && date; } >> hello.log
+{ echo -n "Hello World" && date; } >> hello2.log
